@@ -1,0 +1,59 @@
+.frame {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 438px;
+  overflow: hidden;
+  width: 356px;
+}
+
+.overlapGroup {
+  height: 490px;
+  position: relative;
+  width: 360px;
+}
+
+.rectangle199 {
+  background-color: var(--peach-yellow);
+  height: 438px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.synlighetOgBevisstgjring {
+  height: 50px;
+  left: 56px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 262px;
+}
+
+.vsSubscribeAndUnsubscribe {
+  height: 109px;
+  left: 47px;
+  position: absolute;
+  top: 131px;
+  width: 247px;
+}
+
+.fange {
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 268px;
+  width: 313px;
+}
+
+.arrow {
+  height: 44px;
+  left: 273px;
+  object-fit: cover;
+  position: absolute;
+  top: 359px;
+  width: 40px;
+}
+
